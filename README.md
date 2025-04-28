@@ -1,6 +1,6 @@
 ### Hello, I'm Adeit!  👋
 
-I'm a fourth-year student at the University of Waterloo, currently pursuing a Bachelor's Degree in Computer Science (co-op). I'm looking to work through and solve challenges, explore new technologies, and learn about everything!
+I'm a newly graduated student from the University of Waterloo, just having completed my Bachelor's Degree in Computer Science (co-op). I'm looking to work through and solve challenges, explore new technologies, and learn about everything!
 
 
 <!--
